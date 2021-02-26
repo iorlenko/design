@@ -40,7 +40,6 @@ Timeline
 * Viewing the timeline should be fast
 * Twitter is more read heavy than write heavy
     * Optimize for fast reads of tweets
-* Ingesting tweets is write heavy
 
 Search
 
